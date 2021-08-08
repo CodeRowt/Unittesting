@@ -13,7 +13,7 @@ class TestAdd(unittest.TestCase):
 
 class Concatenate(unittest.TestCase):
     def test_equal(self):
-        self.assertEqual(Gladys,Waithera)
+          self.assertEqual(Gladys,Waithera)
     def test_false(self):
         self.assertNotEqual(Gladys, Waithera) 
 
